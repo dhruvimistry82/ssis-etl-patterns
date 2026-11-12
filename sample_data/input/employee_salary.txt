@@ -1,0 +1,6 @@
+id, name, salary
+1,Priya Nair,52000
+2,Owen Clark,38000
+3,Sara Lopez,61000
+4,Ben Walker,29500
+5,Ana Ruiz,44000

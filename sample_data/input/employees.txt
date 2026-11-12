@@ -1,0 +1,5 @@
+id, name, dob, address, joining_date;
+1,Riya Desai,1992-04-11,12 Elm St,2020-01-15
+2,Mark Lee,1988-09-30,48 Oak Ave,2019-06-01
+3,Julia Gomez,1995-02-18,7 Pine Rd,2022-03-21
+4,Tom Ward,1990-12-05,90 Maple Ln,2021-11-08

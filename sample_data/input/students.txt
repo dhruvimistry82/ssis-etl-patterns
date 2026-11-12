@@ -1,0 +1,7 @@
+sid,name,subject,marks
+S01,Aarav Shah,Math,78
+S02,Maya Chen,Math,35
+S03,Liam Ortiz,Science,62
+S04,Zoe Patel,Science,40
+S05,Noah Kim,English,91
+S06,Ella Brooks,English,28

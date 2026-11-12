@@ -1,0 +1,5 @@
+CustomerID, CustomerName,Status
+101,Northwind Supplies,Active
+102,Blue Harbor Foods,Inactive
+103,Summit Tools,Active
+199,New Horizon Retail,Active

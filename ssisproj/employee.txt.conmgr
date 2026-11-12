@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="employee.txt"
+  DTS:DTSID="{75BE3828-2F91-45B7-9DD5-20CCE6D49BC4}"
+  DTS:CreationName="FILE">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="C:\ssis-etl-patterns\sample_data\incoming\employee.txt" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
